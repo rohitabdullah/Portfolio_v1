@@ -1,55 +1,70 @@
-![Profile Image](images/IMG_.jpg)
+# 👨‍💻 Rohit's Portfolio
 
-# 💻 Rohit's_Scripts | Automation & Cybersecurity Portfolio
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Frohitabdullah.github.io%2FPortfolio_v1%2F&style=for-the-badge&logo=github&label=Live%20Demo)](https://rohitabdullah.github.io/Portfolio_v1/)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://rohitabdullah.github.io/Portfolio_v1/)
+[![Developer](https://img.shields.io/badge/Developer-Rohit%20Abdullah-blue?style=for-the-badge)](https://github.com/RohitAbdullah)
 
-A high-performance, dark-themed portfolio website designed for a **Python Automation Developer** and **Cybersecurity Expert**. 
-
-This site features a custom-built "Matrix/Cyber Rain" background animation using the HTML5 Canvas API, a sleek Glassmorphism UI, and a fully functional serverless contact form. It showcases projects ranging from browser automation to ethical security tools.
-
----
-
-## 🔗 Live Demo
-[🔴 View Live Demo Here](https://rohitabdullah.github.io/Portfolio_v1/)
+> **"Code aimed at solving real problems — from automation utilities to ethical-security workflows."**
 
 ---
 
-## ⚡ Key Features
-* **Badass Visuals:** Custom JavaScript-driven "Neon Cyber-Storm" background animation (Matrix style).
-* **Glassmorphism UI:** Modern, translucent cards with blur effects for a premium feel.
-* **Interactive Typing Effect:** Dynamic hero section text rotation.
-* **Working Contact Form:** Integrated with **FormSubmit** (No backend required).
-* **Fully Responsive:** Optimized for Mobile, Tablet, and Desktop screens.
-* **Smooth Navigation:** Active scroll tracking and intersection observers for scroll animations.
+## 🚀 About Me
+
+Hi, I'm **Rohit Abdullah**, a passionate Web Developer and Automation Specialist based in **Gazipur, Dhaka, Bangladesh**. 
+
+I specialize in crafting clean, reliable, and practical solutions. My work bridges the gap between complex backend logic and user-friendly design, with a heavy focus on **Python automation**, **cybersecurity workflows**, and **web tools**.
+
+* 🎓 **Education:** BSc in Computer Science & Engineering @ Gono Bishwabidyalay (2022 - 2026)
+* 💼 **Experience:** 5+ Years (Automation, Scripting, Cybersecurity)
+* 🛠️ **Focus:** Automation, Ethical Hacking Tools, & Web Development
 
 ---
 
-## 🧰 Tools & Technologies
+## 🛠️ Tech Stack & Skills
 
-### Website Stack
-| Category | Tech Used |
-|-----------|-------------|
-| **Core** | HTML5, CSS3, JavaScript (ES6+) |
-| **Visuals** | HTML5 Canvas API (Animations), FontAwesome 6 |
-| **Styling** | CSS Variables, Glassmorphism, Flexbox/Grid |
-| **Form Handling** | FormSubmit.co (AJAX/Fetch API) |
+### 🖥️ **Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### My Expertise (Showcased)
-| Domain | Tools |
-|-----------|-------------|
-| **Automation** | Python, Selenium, Playwright, Telethon |
-| **Security** | SOCKS5 Proxies, Penetration Testing Tools |
-| **Backend** | Flask, REST APIs, Firebase |
+### ⚙️ **Automation & Backend**
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🗄️ **Databases & Tools**
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Project Structure
+## 📂 Featured Projects
 
-```bash
-📦 rohits-scripts-portfolio
- ┣ 📜 index.html        # Main structure & content
- ┣ 📜 style.css         # Glassmorphism & layout styling
- ┣ 📜 script.js         # Matrix animation & form logic
- ┣ 📂 images            # Project screenshots & profile pics
- ┃ ┣ 📜 IMG_.jpg        # Profile Picture
- ┃ ┗ 📜 ...             # Project thumbnails
- ┗ 📜 README.md         # Documentation
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Phantom YouTube Viewer v2** | Human-like playback automation with SOCKS5 proxy rotation & session logging. | `Python` `Playwright` `AsyncIO` |
+| **CyberShrink** | Private link shortener with Firebase backing, random rotation & analytics. | `JavaScript` `Firebase` |
+| **Proxy Generator** | Fast proxy harvesting, geo-tagging, and latency testing pipeline. | `Python` `Requests` `GeoIP` |
+| **Telegram Suite** | Bulk messaging, scheduling, and webhook-driven task automation. | `Python` `Telethon` `AsyncIO` |
+| **FB Automation Tool** | Streamlines account checks, password updates, and session validation. | `Python` `Selenium` `Rich` |
+
+---
+
+## 📬 Get In Touch
+
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+* 📧 **Email:** [inayeemabdullah@gmail.com](mailto:inayeemabdullah@gmail.com)
+* 📞 **Phone:** [+880 1612-720354](tel:+8801612720354)
+* 💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/message/YDJZ4AVFVP45M1)
+* 📍 **Location:** Gazipur, Dhaka, Bangladesh
+
+---
+
+<div align="center">
+  <p>Designed & Built by <b>Rohit Abdullah</b></p>
+  <p>&copy; 2025 All Rights Reserved.</p>
+</div>
